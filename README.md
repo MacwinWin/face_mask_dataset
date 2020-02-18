@@ -24,6 +24,7 @@
 
 **模型下载：**
 这是我训练4000次迭代后的参数文件，有兴趣的可以继续调参训练，看那个loss图还有下降的趋势
+
 地址：https://drive.google.com/file/d/1r7A3Mh_L4vx9P7i-a0nCr_SD-f_yPF7z/view?usp=sharing
 
 如有疑问可通过邮箱与我联系！
